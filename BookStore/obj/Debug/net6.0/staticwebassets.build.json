@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "03i0hx2iyl1Usclp00YZomSWTpVUlAHs7LbTA5NBNfQ=",
+  "Hash": "lNprduPEDQFXCdkUQ8uwNeDwNFl8cpxjfapV7qI13EM=",
   "Source": "BookStore",
   "BasePath": "_content/BookStore",
   "Mode": "Default",
@@ -1122,23 +1122,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\ejonhjärta.jpg",
-      "SourceId": "BookStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\",
-      "BasePath": "_content/BookStore",
-      "RelativePath": "images/ejonhjärta.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\ejonhjärta.jpg"
-    },
-    {
       "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\lotr.jpg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
@@ -1156,12 +1139,12 @@
       "OriginalItemSpec": "wwwroot\\images\\lotr.jpg"
     },
     {
-      "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\mystic-river.jpg",
+      "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\lotrCopie.jpg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "images/mystic-river.jpg",
+      "RelativePath": "images/lotrCopie.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\mystic-river.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\lotrCopie.jpg"
     },
     {
-      "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\of-mice-and-men.jpg",
+      "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\mystic-riverCopie.jpg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "images/of-mice-and-men.jpg",
+      "RelativePath": "images/mystic-riverCopie.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\of-mice-and-men.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\mystic-riverCopie.jpg"
     },
     {
-      "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\old-man-and-the-sea.jpg",
+      "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\of-mice-and-menCopie.jpg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "images/old-man-and-the-sea.jpg",
+      "RelativePath": "images/of-mice-and-menCopie.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\old-man-and-the-sea.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\of-mice-and-menCopie.jpg"
     },
     {
-      "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\the-road.jpg",
+      "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\old-man-and-the-seaCopie.jpg",
       "SourceId": "BookStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\",
       "BasePath": "_content/BookStore",
-      "RelativePath": "images/the-road.jpg",
+      "RelativePath": "images/old-man-and-the-seaCopie.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,7 +1204,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\the-road.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\old-man-and-the-seaCopie.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\images\\the-roadCopie.jpg",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "images/the-roadCopie.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\the-roadCopie.jpg"
     },
     {
       "Identity": "C:\\Users\\GIS PLUS\\source\\repos\\BookStore\\BookStore\\wwwroot\\js\\site.js",
